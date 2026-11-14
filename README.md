@@ -97,4 +97,9 @@ Acao cadastrada com sucesso!
 
 ## Links
 
-- Repositório: https://github.com/brendabyy/pse_em_acaoo.c
+- Repositório: https://github.com/brendabyy/pse_em_acaoo.
+  ## Documentação e vídeo
+
+- [Documentação completa da AEP](PSE_em_Acao_Saude_Mental_AEP_Completo_ABNT.docx)
+- [Vídeo de apresentação](https://youtu.be/vZ8pJNXR2Y0?si=jh855drrHf3vdSw0)
+
